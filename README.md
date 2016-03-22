@@ -25,7 +25,7 @@ Q.  Where and when will it take place?
 A.  Please see venue information.
 
 Q.  What if I have other questions?  
-A.  Send an email to Jonathan or come over to our club room at 112 Bergeron Centre.
+A.  Send an email to Jonathan or come over to our club room at 102C Bergeron Centre.
 
 ## Contact
 Presenter:  
