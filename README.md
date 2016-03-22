@@ -16,9 +16,9 @@ When?    4:00 – 6:00 pm on March 24, 2016
 
 ## Laptop Setup
 To follow along the workshop, please do the following:  
-1. Android Studio: http://developer.android.com/sdk/index.html  
+1. Install Android Studio: http://developer.android.com/sdk/index.html  
 2. Set up SDK Manager: http://developer.android.com/tools/help/sdk-manager.html  
-3. BlueStacks (If you don't have an android phone): http://www.bluestacks.com/
+3. Install BlueStacks (If you don't have an android phone): http://www.bluestacks.com/
 
 ## FAQs
 Q.  Do I need to know any programming?  
