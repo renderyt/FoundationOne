@@ -4,6 +4,8 @@ Hello!
  
 In this workshop, we will build a simple Android app that will teach you the foundational knowledge to mobile development in Android. Stay tuned to find out what we will be building.
 
+*Poster by Waleed Azhar
+
 ## Venue
 Where?   Bergeron Centre, Room 313  
 When?    4:00 – 6:00 pm on March 24, 2016  
