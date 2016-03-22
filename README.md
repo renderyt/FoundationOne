@@ -27,5 +27,11 @@ A.  Please see venue information.
 Q.  What if I have other questions?  
 A.  Send an email to Jonathan or come over to our club room at 112 Bergeron Centre.
 
+## Contact
+Presenter:  
 Jonathan Bahri – AppDroid Club @YU  
 jonathan.bahri@outlook.com
+
+Host:  
+AppDroid  
+yuappdroid@gmail.com
