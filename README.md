@@ -1,5 +1,5 @@
 # Android Foundation Workshop Hosted By AppDroid
-![Alt text](Android_Foundations_Poster.jpg?raw=true "Optional Title")  
+![Android Foundation Workshop Poster by Waleed Azhar](Android_Foundations_Poster.JPG "")  
 Hello!
  
 In this workshop, we will build a simple Android app that will teach you the foundational knowledge to mobile development in Android. Stay tuned to find out what we will be building.
