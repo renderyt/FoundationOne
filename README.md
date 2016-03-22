@@ -14,6 +14,12 @@ When?    4:00 – 6:00 pm on March 24, 2016
 5:00 – 5:30 pm   Editing activities to manipulate the user interface  
 5:30 – 6:00 pm   Saving files to the user’s phone  
 
+## Laptop Setup
+To follow along the workshop, please do the following:  
+1. Android Studio: http://developer.android.com/sdk/index.html  
+2. Set up SDK Manager: http://developer.android.com/tools/help/sdk-manager.html  
+3. BlueStacks (If you don't have an android phone): http://www.bluestacks.com/
+
 ## FAQs
 Q.  Do I need to know any programming?  
 A.  Java programming is an asset, but it is not necessary. We will be going over the very basics of Android development.
