@@ -200,11 +200,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 	 * Deletes save file and current note
 	 */
 	private void deleteAll() {
+		String oldTitle = titleText.getText().toString();
 		deleteFile(NOTEFILE);
 		deleteFile(TITLEFILE);
 		noteText.setText("");
 		titleText.setText("Unnamed");
-		Toast.makeText(MainActivity.this, titleText.getText().toString() + " has been deleted", Toast.LENGTH_SHORT).show();
+		Toast.makeText(MainActivity.this, oldTitle + " has been deleted", Toast.LENGTH_SHORT).show();
 	}
 
 	/**
