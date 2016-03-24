@@ -2,13 +2,22 @@
 ![Android Foundation Workshop Poster by Waleed Azhar](Android_Foundations_Poster.JPG "")  
 Hello!
  
-In this workshop, we will build a simple Android app that will teach you the foundational knowledge to mobile development in Android. Stay tuned to find out what we will be building.
+In this workshop, we will build a simple Android app that will teach you the foundational knowledge to mobile development in Android. We will be building a note taking app that incorporates many fundamental Android classes. We will begin by learning the Android UI building blocks, manipulating them by using XML, and then using Java to listen for click events, change views, and save files to the phone. Scroll down for a demo of the app.
+
+See you there on Wednesday!
 
 *Poster by Waleed Azhar
 
+## Updates
+1. Workshop has been postponed to March 30, 2016. Please ignore the poster.  
+2. App has been uploaded. Further improvements may be added.
+
+## App Demo
+![App Video Demo](App_Video_Demo.mp4 "")
+
 ## Venue
 Where?   Bergeron Centre, Room 313  
-When?    4:00 – 6:00 pm on March 24, 2016  
+When?    4:00 – 6:00 pm on March 30, 2016  
 
 ## Agenda
 3:30 – 4:00 pm   AppDroid team will help install Android Studio and/or BlueStacks  
