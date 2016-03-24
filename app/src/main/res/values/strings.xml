@@ -1,3 +1,8 @@
 <resources>
-	<string name="app_name">Foundation One</string>
+	<string name="app_name">My Note</string>
+	<string name="cancel">cancel</string>
+	<string name="ok">ok</string>
+	<string name="delete_dialog_title">Delete</string>
+	<string name="delete_dialog_message">Are you sure you want to delete the note?</string>
+	<string name="edit_dialog_title">Edit Title</string>
 </resources>

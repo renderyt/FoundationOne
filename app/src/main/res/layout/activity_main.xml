@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-	xmlns:android="http://schemas.android.com/apk/res/android"
-	xmlns:tools="http://schemas.android.com/tools"
-	android:layout_width="match_parent"
-	android:layout_height="match_parent"
-	android:paddingBottom="@dimen/activity_vertical_margin"
-	android:paddingLeft="@dimen/activity_horizontal_margin"
-	android:paddingRight="@dimen/activity_horizontal_margin"
-	android:paddingTop="@dimen/activity_vertical_margin"
-	tools:context="com.appdroid.workshop.foundationone.MainActivity">
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="com.appdroid.workshop.foundationone.MainActivity">
 
-	<TextView
+	<ScrollView android:layout_width="match_parent"
+	            android:layout_height="match_parent">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical"
+			android:paddingBottom="@dimen/activity_vertical_margin"
+			android:paddingLeft="@dimen/activity_horizontal_margin"
+			android:paddingRight="@dimen/activity_horizontal_margin"
+			android:paddingTop="@dimen/activity_vertical_margin">
+
+			<include layout="@layout/header_bar"/>
+
+			<View android:layout_width="match_parent"
+			      android:layout_height="1dp"
+			      android:layout_marginBottom="@dimen/layout_margin"
+			      android:layout_marginTop="@dimen/layout_margin"
+			      android:background="@android:color/darker_gray"/>
+
+			<EditText android:id="@+id/note_text"
+			          android:layout_width="match_parent"
+			          android:layout_height="0dp"
+			          android:layout_weight="1"
+			          android:background="@android:color/transparent"
+			          android:enabled="false"
+			          android:fontFamily="sans-serif-light"
+			          android:inputType="textCapSentences|textMultiLine"
+			          android:textColor="@android:color/black"/>
+		</LinearLayout>
+	</ScrollView>
+
+	<android.support.design.widget.FloatingActionButton
+		android:id="@+id/edit_button"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
-		android:text="Hello World!"/>
-</RelativeLayout>
+		android:layout_gravity="bottom|end"
+		android:layout_margin="@dimen/button_margin"
+		android:src="@drawable/ic_mode_edit_white_24dp"/>
+</FrameLayout>
