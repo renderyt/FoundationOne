@@ -2,7 +2,7 @@
 ![Android Foundation Workshop Poster by Waleed Azhar](Android_Foundations_Poster.JPG "")  
 Hello!
  
-In this workshop, we will build a simple Android app that will teach you the foundational knowledge to mobile development in Android. We will be building a note taking app that incorporates many fundamental Android classes. We will begin by learning the Android UI building blocks, manipulating them by using XML, and then using Java to listen for click events, change views, and save files to the phone. Scroll down for a demo of the app.
+In this workshop, we will build a simple Android app that will teach you the foundational knowledge to mobile development in Android. We will be building a note taking app that incorporates many fundamental Android classes. We will begin by learning the Android UI building blocks, manipulating them by using XML, and then using Java to listen for click events, change views, and save files to the phone. Project can be forked or you can download the zip. Scroll down for a demo of the app.
 
 See you there on Wednesday!
 
@@ -38,11 +38,14 @@ More detailed instructions are available written by Simon Ma: https://goo.gl/ZPw
 Q.  Do I need to know any programming?  
 A.  Java programming is an asset, but it is not necessary. We will be going over the very basics of Android development.
 
+Q. What languages will it involve?  
+A. Java and XML.
+
 Q.  What should I bring?  
 A.  Bring yourself, your friends and your laptop. We encourage you to follow along in coding what may be your very first Android application! Remember to setup your laptop with the necessary programs. If you encounter any difficulty, come to the workshop a little earlier and we will help you set things up.
 
-Q.  Where and when will it take place?  
-A.  Please see venue information.
+Q. How do I import and run the project?  
+A. With Android Studio opened go to: File -> New -> Project from Version Control -> GitHub -> Enter the link: https://github.com/renderyt/FoundationOne -> Clone. Then simply Run the project with an emulator or your own phone.
 
 Q.  What if I have other questions?  
 A.  Send an email to Jonathan or come over to our club room at 102C Bergeron Centre.
