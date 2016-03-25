@@ -48,7 +48,7 @@ Q. How do I import and run the project?
 A. With Android Studio opened go to: File -> New -> Project from Version Control -> GitHub -> Enter the link: https://github.com/renderyt/FoundationOne -> Clone. Then simply Run the project with an emulator or your own phone.
 
 Q.  What if I have other questions?  
-A.  Send an email to Jonathan or come over to our club room at 102C Bergeron Centre.
+A.  Send an email to [Jonathan](mailto:jonathan.bahri@outlook.com) or come over to our club room at 102C Bergeron Centre.
 
 ## Contact
 Presenter:  
