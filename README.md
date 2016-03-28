@@ -16,8 +16,8 @@ See you there on Wednesday!
 ![App Video Demo](App_Video_Demo.mp4 "")
 
 ## Venue
-Where?   Bergeron Centre, Room 313  
-When?    4:00 – 6:00 pm on March 30, 2016  
+Where?   Bergeron Centre, Room 217  
+When?    5:00 – 7:00 pm on Wednesday March 30, 2016  
 
 ## Agenda
 3:30 – 4:00 pm   AppDroid team will help install Android Studio and/or BlueStacks  
