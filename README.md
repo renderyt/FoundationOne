@@ -9,8 +9,9 @@ See you there on Wednesday!
 *Poster by Waleed Azhar
 
 ## Updates
-1. Workshop has been postponed to March 30, 2016. Please ignore the poster.  
-2. App has been uploaded. Further improvements may be added.
+March 25 - Room 217 of Bergeron has been booked for 5:00 to 7:00 pm.
+March 24 - Workshop has been postponed to March 30, 2016. Please ignore the poster.  
+March 24 - App has been uploaded. Further improvements may be added.
 
 ## App Demo
 ![App Video Demo](App_Video_Demo.mp4 "")
